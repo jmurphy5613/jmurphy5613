@@ -1,7 +1,7 @@
 # Hi there, I'm John 👋
-- 🔭 I’m currently working on tournament organizer website
-- 🌱 I’m currently learning Vue.js and other implementing other libraries
-- 👯 I’m looking to collaborate on interesting projects related to Web Devlopement
+- 🔭 I’m currently working on a full stack admin page for a NPO
+- 🌱 I’m currently learning Node.js and mySQL
+- 👯 I’m looking to collaborate on interesting projects related to full stack web development
 - 📅 This year I would like to challenge myself to work on open source projects
 
 ## Technologies I currently work with
