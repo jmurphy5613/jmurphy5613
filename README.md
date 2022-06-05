@@ -1,4 +1,5 @@
-# Hi there, I'm John 👋
+<h1 align="center">👋 Hey, I'm John</h1>
+<h3 align="center">17, High School Student</h3>
 - 🔭 I’m currently working on a full stack admin page for a NPO
 - 🌱 I’m currently learning Node.js and mySQL
 - 👯 I’m looking to collaborate on interesting projects related to full stack web development
