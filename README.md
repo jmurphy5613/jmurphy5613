@@ -3,4 +3,4 @@
 
 - 🚀 currently building [Azol](https://github.com/Azol3)
 
-- 💻 blockchain intern for [Land Kit](https://www.landkit.design/)
+- 💻 blockchain intern for [Landau](https://www.landau.design/)
