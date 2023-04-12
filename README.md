@@ -4,3 +4,5 @@
 - 💻 intern for [Landau](https://www.landau.design/)
 
 - 🎮 currently building [GuessThatRank](https://guessthatrank.com)
+
+- 🤖 FRC Team 484
