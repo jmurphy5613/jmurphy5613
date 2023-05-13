@@ -3,6 +3,6 @@
 
 - 💻 intern for [Landau](https://www.landau.design/)
 
-- 🎮 currently building [GuessThatRank](https://guessthatrank.com)
+- 🎮 currently building [musicspaces](https://github.com/jmurphy5613/musicspaces)
 
 - 🤖 FRC Team 484
