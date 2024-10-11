@@ -6,7 +6,7 @@
 - 🤖 FRC Team 484
 
 # Some stuff I've built:
-- https://www.guessthatrank.com/
-- https://tuneit.vercel.app/
-- (blog thing) https://stalking-john.vercel.app/
-- Some things i've "engineered" https://engineering-work.vercel.app/
+- https://www.guessthatrank.com (got 2000 users in 2022 from a reddit post)
+- https://tuneit.vercel.app (song suggestion website that i made for my friends)
+- https://stalking-john.vercel.app (blog thing)
+- https://engineering-work.vercel.app (Some things i've "engineered")
