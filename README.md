@@ -4,3 +4,9 @@
 - 💻 work @ [Bloom](https://www.bloomapp.com/)
 
 - 🤖 FRC Team 484
+
+# Some stuff I've built:
+- https://www.guessthatrank.com/
+- https://tuneit.vercel.app/
+- (blog thing) https://stalking-john.vercel.app/
+- Some things i've "engineered" https://engineering-work.vercel.app/
