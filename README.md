@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm John</h1>
-<h3 align="center">19, (former) College Student @ Northeastern</h3>
+<h3 align="center">20, (former) College Student @ Northeastern</h3>
 
 - 💻 work @ [Alinea](https://www.alinea-invest.com/)
 
